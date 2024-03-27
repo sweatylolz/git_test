@@ -1,3 +1,3 @@
 # git_test
-WOW what is going on
+im starting to understand a little something
 Hello Odin
